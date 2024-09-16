@@ -1,12 +1,12 @@
-# 🌟 Anyme-Next 🌟
+# 🌟 Weeb 🌟
 
-Welcome to **Anyme-Next** – your ultimate destination for anime and manga! 🎉 This project offers a stunningly designed and fully responsive website that combines the best of both worlds, allowing users to enjoy their favorite anime and manga in one place.
+Welcome to **Weeb** – your ultimate destination for anime and manga! 🎉 This project offers a stunningly designed and fully responsive website that combines the best of both worlds, allowing users to enjoy their favorite anime and manga in one place.
 
 ---
 
-## 📝 About Anyme-Next
+## 📝 About Weeb
 
-**Anyme-Next** is a sleek, modern, and highly responsive website built using the latest technologies. With a cool and user-friendly interface, it's designed to give users an immersive experience as they dive into the world of anime and manga.
+**Weeb** is a sleek, modern, and highly responsive website built using the latest technologies. With a cool and user-friendly interface, it's designed to give users an immersive experience as they dive into the world of anime and manga.
 
 ### ✨ Features
 - **🚀 Super Fast**: Powered by Next.js for blazing fast performance and SSR (Server-Side Rendering).
@@ -29,12 +29,12 @@ Welcome to **Anyme-Next** – your ultimate destination for anime and manga! �
 
 ## 💻 Installation & Setup
 
-To get started with **Anyme-Next**:
+To get started with **Weeb**:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RyanYuuki/Anyme-Next.git
-   cd Anyme-Next
+   git clone https://github.com/crossdotmoe/weeb.git
+   cd weeb
    ```
 
 2. **Install dependencies:**
@@ -76,27 +76,6 @@ Contributions are welcome! If you'd like to contribute to **Anyme-Next**, please
 
 ---
 
-## 🌍 Demo
-
-Check out the live demo of **Anyme-Next** [here](https://anyme-next.vercel.app).
-
----
-
-## 📫 Contact
-
-If you have any questions or want to connect, feel free to reach out:
-
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/RyanYuuki)
-- **Email**: [rehank220358@gmail.com](mailto:rehank220358@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stars](https://img.shields.io/github/stars/your-username/Anyme-Next?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/Anyme-Next?style=social)
-
----
 
 ## 🛠️ Tools & Libraries
 
@@ -107,5 +86,3 @@ If you have any questions or want to connect, feel free to reach out:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333&style=flat)
 
 ---
-
-**Thanks for checking out Anyme-Next!** ✨

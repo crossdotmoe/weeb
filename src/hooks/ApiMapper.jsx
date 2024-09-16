@@ -1,6 +1,6 @@
 const proxy_url = "https://goodproxy.goodproxy.workers.dev/fetch?url=";
-const consumet_api_url = "https://consumet-api-two-nu.vercel.app/meta/anilist/";
-const aniwatch_api_url = "https://aniwatch-ryan.vercel.app/anime/";
+const consumet_api_url = "https://tv-api.cross.moe/meta/anilist/";
+const aniwatch_api_url = "https://aniwatch-api.cross.moe/anime/";
 let isRomaji = false;
 
 if (typeof window !== "undefined") {

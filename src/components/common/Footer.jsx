@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="container px-4 py-10">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold">Anymey</h2>
+            <h2 className="text-2xl font-bold">AnimeCross</h2>
             <p className="text-sm text-muted-foreground">
               Your ultimate destination for anime and manga entertainment.
             </p>
@@ -109,7 +109,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Anymey. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} AnimeCross 2024. All rights reserved.</p>
         </div>
       </div>
     </footer>

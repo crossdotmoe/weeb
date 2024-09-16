@@ -238,7 +238,7 @@ function AdvancedSettingsTab() {
       <div>
         <h2 className="text-2xl font-bold tracking-tight">Advanced Settings</h2>
         <p className="text-muted-foreground">
-          Configure advanced options for AnymeY.
+          Configure advanced options for AnimeCross.
         </p>
       </div>
       <Separator />
